@@ -1,0 +1,50 @@
+
+		* {
+				box-sizing: border-box;
+			}
+		body {
+			background-image: url("https://wallpapers.com/images/hd/godzilla-pictures-hq5zgmrspux8teqq.jpg");
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-attachment: fixed;
+			background-size: cover;
+			margin:0px;
+			
+		}
+		
+		p {
+			text-align: justify;
+			border: 3px solid black;
+			padding: 20px;
+			width: 500px;
+			font-style: italic;
+			border-style: solid dotted dashed none;
+			background-color:hsl(0, 100%, 60%) ;
+		}
+		
+		h1 {
+			border: 2px solid blue;
+			width: 250px;
+			text-align: center;
+			font-family: papyrus;
+			border-style: dotted;
+			padding-top:10px;
+			padding-bottom:10px;
+			padding-left:15px;
+			padding-right: 15px;
+			margin-bottom: 20px;
+			margin-left: auto;
+			margin-right: auto;
+			background-color: #ee82ee;
+	
+		}
+
+		span {
+			font-style:italic;
+			font-weight: 700;
+			color: rgb(50,20,60);
+			margin-left:2px;
+			margin-right:5px;
+		
+		}
+	
